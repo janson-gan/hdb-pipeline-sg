@@ -1,0 +1,28 @@
+Singapore Property Intelligence Pipeline
+
+1. Business question: What factors influence HDB resale prices and how do they vary across Singapore?
+
+2. Data sources: 
+	Data.gov.sg, 
+	OneMap API Singapore locations, coordinates)
+	LTA DataMall (MRT locations),
+	Schools data from Data.gov.sg
+3. What I'll be learning through this project:
+	API integration with authentication
+	Handling rate limits and pagination
+	Incremental data loading
+	Data quality validation
+	Dimension modelling
+	SQL window functions and aggregations
+	Orchestration with Airflow
+	Cloud storage and compute
+	Data warehouse optimization
+	Basic analytics and visualization
+
+4. Phase 1:
+	Working data with Data.gov.sg
+	Build a robust Python extraction script
+	Explain error handling and logging
+	Setup development environment
+	Create first working ETL component
+
